@@ -1,11 +1,5 @@
-- 👋 Hi, I’m @TheRedBR
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-TheRedBR/TheRedBR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-crie um codico para mim
+Estudante do Adaile Maria Leite
+Guilherme Cavalheiro 2 tecnico
+Projeto com colaboração com os colégios de Maringá
+Criar um site de alugar as quadras dos 3 colégios emvolvido no projeto
+Todas as ideias serão discutidas pelos membros
